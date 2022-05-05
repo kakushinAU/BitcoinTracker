@@ -4,6 +4,9 @@
 
 ### Important links
 
+Video:
+https://youtu.be/uSCXQWpmALM
+
 Schematic:
 https://github.com/kakushinAU/BitcoinTracker/blob/main/ESP32_Bitcoin_Tracker_Schematic.pdf
 
