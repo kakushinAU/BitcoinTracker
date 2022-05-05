@@ -1,18 +1,23 @@
 # Bitcoin Price tracker using ESP32 smd chip
 
 <img src="https://github.com/kakushinAU/BitcoinTracker/blob/main/KakushinBitcoinPriceTracker.PNG" alt="Price Tracker" title="Kakushin Bitcoin Price Tracker">
-https://github.com/kakushinAU/BitcoinTracker/blob/main/KakushinBitcoinPriceTracker.PNG
 
 ### Important links
 
-Schematic: https://github.com/kakushinAU/BitcoinTracker/blob/main/ESP32_Bitcoin_Tracker_Schematic.pdf
+Schematic:
+https://github.com/kakushinAU/BitcoinTracker/blob/main/ESP32_Bitcoin_Tracker_Schematic.pdf
 
-Paper cutout pattern (A4 size): https://github.com/kakushinAU/BitcoinTracker/blob/main/Bitcoin_Tracker_Case-A4.pdf
-Paper cutout pattern (Letter size): https://github.com/kakushinAU/BitcoinTracker/blob/main/Bitcoin_Tracker_Case-Letter.pdf
+Paper cutout pattern (A4 size):
+https://github.com/kakushinAU/BitcoinTracker/blob/main/Bitcoin_Tracker_Case-A4.pdf
 
-MegaCoreX board manager URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+Paper cutout pattern (Letter size):
+https://github.com/kakushinAU/BitcoinTracker/blob/main/Bitcoin_Tracker_Case-Letter.pdf
 
-Pololu USB AVR Programmer v2.1: https://www.pololu.com/product/3172
+MegaCoreX board manager URL:
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+Pololu USB AVR Programmer v2.1:
+https://www.pololu.com/product/3172
 
 ### Example code
 
