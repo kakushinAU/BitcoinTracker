@@ -1,5 +1,8 @@
 # Bitcoin Price tracker using ESP32 smd chip
 
+<img src="https://github.com/kakushinAU/BitcoinTracker/blob/main/KakushinBitcoinPriceTracker.PNG" alt="Price Tracker" title="Kakushin Bitcoin Price Tracker">
+https://github.com/kakushinAU/BitcoinTracker/blob/main/KakushinBitcoinPriceTracker.PNG
+
 ### Important links
 
 Schematic: https://github.com/kakushinAU/BitcoinTracker/blob/main/ESP32_Bitcoin_Tracker_Schematic.pdf
